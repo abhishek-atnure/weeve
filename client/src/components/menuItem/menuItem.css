@@ -1,0 +1,22 @@
+.menu-item-icon {
+  opacity: 0.8;
+  margin: 10px;
+  width: 15px;
+}
+
+.menu-item {
+  display: flex;
+  justify-content: right;
+  align-items: center;
+  margin: auto;
+}
+
+.menu-item-label:hover {
+  color: #41c4b7;
+}
+
+.menu-item-label {
+  color: white;
+  opacity: 0.8;
+  font-size: 13px;
+}
