@@ -15,7 +15,7 @@ function ServiceList({ services, alert, setAlert }) {
           />
         ))
       ) : (
-        <span id="error">No match found</span>
+        <span id="error">No match found, reload page</span>
       )}
     </div>
   );
