@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bd442c53.chunk.css",
+    "main.js": "/static/js/main.dd6098ef.chunk.js",
+    "main.js.map": "/static/js/main.dd6098ef.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.708d2708.js",
+    "runtime-main.js.map": "/static/js/runtime-main.708d2708.js.map",
+    "static/js/2.658b09ed.chunk.js": "/static/js/2.658b09ed.chunk.js",
+    "static/js/2.658b09ed.chunk.js.map": "/static/js/2.658b09ed.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.bd442c53.chunk.css.map": "/static/css/main.bd442c53.chunk.css.map",
+    "static/js/2.658b09ed.chunk.js.LICENSE.txt": "/static/js/2.658b09ed.chunk.js.LICENSE.txt",
+    "static/media/arrow-drop.2657d56a.svg": "/static/media/arrow-drop.2657d56a.svg",
+    "static/media/arrow-up.5babad9e.svg": "/static/media/arrow-up.5babad9e.svg",
+    "static/media/delete-icon.a53e2203.svg": "/static/media/delete-icon.a53e2203.svg",
+    "static/media/filter-icon.7edff42e.svg": "/static/media/filter-icon.7edff42e.svg",
+    "static/media/menu-designer.54544a2c.svg": "/static/media/menu-designer.54544a2c.svg",
+    "static/media/menu-designer.9b527df0.svg": "/static/media/menu-designer.9b527df0.svg",
+    "static/media/menu-icon.233ca936.svg": "/static/media/menu-icon.233ca936.svg",
+    "static/media/menu-insights.0857bceb.svg": "/static/media/menu-insights.0857bceb.svg",
+    "static/media/menu-library.cb2145a7.svg": "/static/media/menu-library.cb2145a7.svg",
+    "static/media/menu-logout.3b92f307.svg": "/static/media/menu-logout.3b92f307.svg",
+    "static/media/menu-nodes.ebde4a3b.svg": "/static/media/menu-nodes.ebde4a3b.svg",
+    "static/media/menu-overview.0d63543b.svg": "/static/media/menu-overview.0d63543b.svg",
+    "static/media/menu-services.1ab0b5e3.svg": "/static/media/menu-services.1ab0b5e3.svg",
+    "static/media/rocket-icon.c562e2e6.svg": "/static/media/rocket-icon.c562e2e6.svg",
+    "static/media/serach-icon.23a93868.svg": "/static/media/serach-icon.23a93868.svg",
+    "static/media/weeve-icon.4b866aca.png": "/static/media/weeve-icon.4b866aca.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.708d2708.js",
+    "static/js/2.658b09ed.chunk.js",
+    "static/css/main.bd442c53.chunk.css",
+    "static/js/main.dd6098ef.chunk.js"
+  ]
+}
